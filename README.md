@@ -6,10 +6,12 @@ In addition, the user can choose to use the default implementation (from [Lemon 
 
 ### Using the Default Graph Implementation (Lemon Graph)
 `cmake`
+
 `make`
 
 ### Using Boost Graph
 `cmake -DUSE_BOOST:BOOL=ON`
+
 `make`
 
 
